@@ -1,0 +1,47 @@
+h1 {
+  color: #fee05c;
+}
+
+h2 {
+  color: #c1e1ee;
+}
+
+container2 {
+  color: #000000;
+}
+
+.jumbotron {
+  background-color: #fee05c !important;
+  color: #eeeeee;
+}
+
+.navbar {
+  background-color: #c1e1ee !important;
+}
+
+.jumbotron2 {
+  background-color: #000000 !important;
+}
+.container3 {
+  background-color: #000000 !important;
+}
+{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row4 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 10px;
+  margin-left: 35px;
+}
